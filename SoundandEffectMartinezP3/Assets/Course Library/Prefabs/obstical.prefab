@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 1431316469578653982}
   m_Layer: 0
   m_Name: obstical
-  m_TagString: Untagged
+  m_TagString: Obstacles
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -54,8 +54,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.46186447, y: 1.5462679, z: 5.227034}
-  m_Center: {x: -0.01007843, y: 0.27313393, z: -0.21581626}
+  m_Size: {x: 0.46186447, y: 0.95275897, z: 5.227034}
+  m_Center: {x: -0.01007843, y: 0.56988835, z: -0.21581626}
 --- !u!54 &916058710882019157
 Rigidbody:
   m_ObjectHideFlags: 0
